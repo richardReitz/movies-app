@@ -4,8 +4,8 @@ import Routes from './routes';
 
 export default function App(){
   return(
-    <div className='app'>
-      <Routes/>
+    <div>
+      <h1>TESTE</h1>
     </div>
   );
 }

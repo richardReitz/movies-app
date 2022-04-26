@@ -1,0 +1,48 @@
+.info-movie{
+    max-width: 800px;
+    padding: 15px;
+}
+
+.info-title{
+    font-size: 1.75em;
+}
+
+.image{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.sinopse-title{
+    font-size: 1.35em;
+    margin-top: 35px;
+}
+
+.sinopse{
+    font-size: .95em;
+    letter-spacing: .5px;
+}
+
+.buttons{
+    margin-top: 20px;
+}
+
+.button{
+    border: none;
+    color: #000;
+    background-color: rgb(200, 200, 200);
+    border-radius: 5px;   
+    padding: 5px 15px;
+    font-size: 1.1em;
+    margin-right: 10px;
+    transition: all .3s;
+}
+
+.button a{
+    text-decoration: none;
+    color: #000;
+}
+
+.button:hover{
+    cursor: pointer;
+    background-color: #DC3522;
+}

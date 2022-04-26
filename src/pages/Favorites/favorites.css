@@ -1,0 +1,46 @@
+.favorites-movies{
+    display: flex;
+    width: 100%;
+    max-width: 800px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.favorites-movies h1{
+    font-size: 2em;
+    text-align: center;
+}
+
+.favorites-list{
+    padding: 0;
+}
+.movie{
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-width: 600px;
+    margin-bottom: 10px;
+}
+
+.movie span{
+    font-size: 1.3em;
+}
+
+.button-del{
+    margin-left: 15px;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: .9em;
+}
+
+.button-del:hover{
+    cursor: pointer;
+}
+
+.details{
+    color: #DC3522;
+}
