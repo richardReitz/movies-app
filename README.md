@@ -1,70 +1,14 @@
-# Getting Started with Create React App
+# Movies App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Site construído com React JS de lista de filmes. Feito em exercício de curso, buscando os dados dos filmes de API e utilizando o localStorage para armazenamento da lista de filmes favoritos.
 
-## Available Scripts
+# Img
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/93951962/165314069-3bffb8c5-7d3b-4c5a-92fc-6f095dd3be76.jpg" height="500px" />
+  <img src="https://user-images.githubusercontent.com/93951962/165314072-bfe97359-7714-4bfa-8472-7261d1f67185.jpg" height="500px" />
+  <img src="https://user-images.githubusercontent.com/93951962/165314081-6659bb0a-d27f-4a3b-a4c9-a5cf9cce156c.jpg" height="500px" />
+  <img src="https://user-images.githubusercontent.com/93951962/165314062-bae17bbe-92d8-42c1-a704-142b8147bdf6.jpg" height="500px" />
+  <img src="https://user-images.githubusercontent.com/93951962/165314083-39766427-1695-4003-817e-ade0b8654e53.jpg" height="500px" />
+  <img src="https://user-images.githubusercontent.com/93951962/165314091-80780cb6-93ec-47c1-a7ae-6dc6b66ffb63.jpg" height="500px" />
+</div>
